@@ -13,9 +13,9 @@
 
 🔺🔺酷友们的成功实例🔺🔺
 ----------------------------------------------------------------------------------------------------------------------------------
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/x.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/y.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/z.png)
+![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/x.jpg)
+![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/y.jpg)
+![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/z.jpg)
 ----------------------------------------------------------------------------------------------------------------------------------
 
 🔺图文教程链接🔺
